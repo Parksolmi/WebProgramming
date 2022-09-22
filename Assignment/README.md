@@ -1,2 +1,1 @@
-Assignment
-- 주차 별 과제
+# Assignment : 주차 별 과제
