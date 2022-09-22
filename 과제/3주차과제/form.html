@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" ;>
+    <style type='text/css'>
+        .wrap-title {
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .header {
+            font-size: 20px;
+            font-weight: 600;
+        }
+    </style>
+    <div class="wrap-title">
+        <h class="header">회원가입</h>
+    </div>
+</head>
+
+<body>
+
+    <style type='text/css'>
+        .wrap-content {
+            width: 100%;
+            margin: 30px auto 0px auto;
+            text-align: center;
+        }
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        table, td{
+            border: solid 1px black;
+            border-collapse: collapse;
+            text-align: left;
+            padding: 5px 5px;
+        }
+        .input-info{
+            border: none;
+        }
+        .submit{
+            width: 80px;
+            height: 30px;
+
+            margin-top : 15px;
+        }
+    </style>
+
+    <div class="wrap-content">
+        <form name="sign-up" method="post" action="user.php">
+            <table>
+                <thead></thead>
+                <tbody>
+                    <tr>
+                        <td>이름</td>
+                        <td>
+                            <input type="text" name="name" class="input-info"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>아이디</td>
+                        <td>
+                            <input type="text" name="id" class="input-info"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>비밀번호</td>
+                        <td>
+                            <input type="text" name="password" class="input-info"/>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <input class="submit" type="submit" value="가입하기" >
+        </form>
+    </div>
+</body>
+
+</html>
