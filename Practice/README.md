@@ -1,5 +1,4 @@
-# Practice
-- 수업 중 실습한 코드 파일
+# Practice : 수업 중 실습한 코드 파일
 
 Week2
 - Ch2 : PHP 기초 문법
