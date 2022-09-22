@@ -1,2 +1,2 @@
-<h>Practice</h>
+Practice
 - 수업 중 실습한 코드 파일
