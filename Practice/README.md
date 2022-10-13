@@ -14,3 +14,12 @@ Week4
 Week5
 - Ch4 : 반복문 (+form태그 응용)
 - Ch5 : 배열 (+form태그 응용)
+
+Week6
+- Ch5 : 2차원 배열
+- Ch6 : 함수
+
+Week7
+- Ch8 : 쿠키와 세션
+- Ch9 : MySQL 데이터베이스
+
