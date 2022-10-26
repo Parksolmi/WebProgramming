@@ -23,3 +23,6 @@ Week7
 - Ch8 : 쿠키와 세션
 - Ch9 : MySQL 데이터베이스
 
+Week8
+- Ch10 : SQL구문
+- Ch11 : 회원가입페이지 (php와 MySQL연동)
